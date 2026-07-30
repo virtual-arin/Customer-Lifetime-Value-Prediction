@@ -4,7 +4,7 @@
 This project analyzes the **Online Retail dataset (541,909 transactions)** to understand customer purchasing behavior, revenue trends, top products, and high-value customers. It also prepares **RFM features** and a **future 90-day revenue target** for Customer Lifetime Value (CLV) analysis.
 
 ## 📈 Dataset
-[!Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+![Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ---
 
@@ -16,6 +16,13 @@ This project analyzes the **Online Retail dataset (541,909 transactions)** to un
 - Prepare data for future CLV analysis
 
 ---
+
+1. What is the distribution of cancelled invoices?
+
+![Cancelled invoices](https://github.com/virtual-arin/Customer-Lifetime-Value-Prediction/blob/main/images/cancelled_invoices.png)
+
+2. How has revenue changed over time?
+
 
 ## 🧹 Data Preprocessing
 - Removed cancelled invoices
