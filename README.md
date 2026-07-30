@@ -85,13 +85,13 @@ This project analyzes the **Online Retail dataset (541,909 transactions)** to un
 
 12. How is CLV distributed across customers?
 
-![CLV Distribution]()
+![CLV Distribution](https://github.com/virtual-arin/Customer-Lifetime-Value-Prediction/blob/main/images/clv_distribution.png)
 
 **The customer lifetime value distribution is highly right-skewed, showing that the majority of customers generate low value, leaving few high value outliers.**
 
 13. Which numerical features have the strongest relationship with CLV?
 
-!(CLV Heatmap)()
+!(CLV Heatmap)(https://github.com/virtual-arin/Customer-Lifetime-Value-Prediction/blob/main/images/correlation_heatmap2.png)
 
 **Monetary value and CLV show the strongest positive correlation at 0.65, meaning that higher spending strongly predicts a greater overall customer lifetime value.**
 
